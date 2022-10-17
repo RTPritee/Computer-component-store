@@ -1,0 +1,59 @@
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe.config
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.pdb
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csprojResolveAssemblyReference.cache
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormLogin.resources
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Properties.Resources.resources
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.GenerateResource.Cache
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.exe
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.pdb
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormManagerComponent.resources
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.ManagerDashBoard.resources
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Salesman.resources
+C:\Users\pritee\OneDrive\Documents\My Semisters\7th semester\OOP2 ALL\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormSalesmanList.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe.config
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.pdb
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.Design.dll
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.dll
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.Fonts.dll
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.AssemblyReference.cache
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormLogin.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormCrud.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormManagerComponent.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormOperation.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormSalesmanList.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.ManagerDashBoard.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Properties.Resources.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Salesman.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFAdd.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFDelete.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFUpdate.resources
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.GenerateResource.cache
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.CoreCompileInputs.cache
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.CopyComplete
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.exe
+G:\semesters\^6th semester\OOP2\Project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.pdb
+G:\semesters\^6th semester\OOP2\project\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormCart.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe.config
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.exe
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.pdb
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.exe
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\ComputerComponentStore.pdb
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.Design.dll
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.dll
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csprojResolveAssemblyReference.cache
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormLogin.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormCart.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormCrud.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormManagerComponent.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormOperation.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.FormSalesmanList.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.ManagerDashBoard.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Properties.Resources.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.Salesman.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFAdd.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFDelete.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.UCFUpdate.resources
+C:\Users\pritee\Downloads\ComputerComponentStore\ComputerComponentStore\ComputerComponentStore\obj\Debug\ComputerComponentStore.csproj.GenerateResource.Cache
